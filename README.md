@@ -1,2 +1,1 @@
-# how_to_install...-
-How to install...?
+# How to install...?
