@@ -40,8 +40,8 @@ Contributing 🤝
 
 We welcome contributions! If you have additional installation guides or improvements, please follow these steps:
 
-    Fork the repository.
-    Create a new branch (git checkout -b feature/YourFeature).
-    Make your changes and commit them (git commit -m 'Add some feature').
-    Push to the branch (git push origin feature/YourFeature).
-    Open a pull request.
+Fork the repository.
+Create a new branch (git checkout -b feature/YourFeature).
+Make your changes and commit them (git commit -m 'Add some feature').
+Push to the branch (git push origin feature/YourFeature).
+Open a pull request.
