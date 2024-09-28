@@ -45,3 +45,6 @@ Create a new branch (git checkout -b feature/YourFeature).
 Make your changes and commit them (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a pull request.
+
+
+For more check https://4geeks.com/lesson/the-command-line-the-terminal
