@@ -11,30 +11,30 @@ This repository aims to simplify the installation process by offering step-by-st
 ### Installation Command
 
 For most packages, you can use the following command format:
-
 ```bash
 [package-manager] install [package-name]
+```
 
 Verification Commands
 
 To check if a package is installed, you can typically use:
-
+```bash
 [package-manager] list
-
+```
 Or for specific version verification:
-
+```bash
 [package-name] --version
-
+```
 or
-
+```bash
 [package-name] -v
-
+```
 Help Command
 
 If you need assistance or want to see available options for a package, you can run:
-
+```bash
 [package-name] --help
-
+```
 
 Contributing 🤝
 
