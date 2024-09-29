@@ -20,6 +20,14 @@
 
 ### On Linux (Debian)
 
+---
+
+# Update Your System
+
+```bash
+sudo apt-get update -y && sudo apt-get full-upgrade -y && sudo apt autoremove -y
+```
+
 - **Download and Install NVM:**
   - Run this command in the terminal:
     ```bash
