@@ -9,7 +9,7 @@
 
 ---
 
-## Check for new updates 
+## Update Your System
 
 ```bash
 sudo apt-get update -y && sudo apt-get full-upgrade -y && sudo apt autoremove -y
